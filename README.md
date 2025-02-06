@@ -1,10 +1,12 @@
-# Extreme_Weather_Conditions_and_Alerting
 # Extreme Weather Conditions and Real-Time Alerting
 
-In collaboration with Big Blue Data Academy, we developed a **real-time alerting system** for extreme weather conditions using data engineering techniques. Our project focuses on **analyzing historical weather patterns** and **predicting potential risks** to support agriculture and farming. The system provides real-time alerts for extreme weather events, helping farmers make informed decisions on irrigation, harvesting, and preventive measures.
+As a final project for graduating from the Data Engineering Bootcamp organized by the Big Blue Data Academy, we developed a **real-time 
+alerting system** for extreme weather conditions using data engineering techniques. 
+#
+Our project focuses on acquiring the necessary data from APIs, in an organized and automated manner, in order to clean, save into a database and provide to data analysts / data scientists for further analysis.
 
 ## Duration:  
-1 month  
+2.5 weeks   
 
 ## Project Organization  
 ├── README.md <- The top-level README for navigating this project 
@@ -29,8 +31,8 @@ The project utilizes **1.2 million rows** of **hourly historical weather data** 
 ___
 To ensure data accuracy and consistency, we implemented **ETL pipelines** using **Apache Airflow**:
 
-- **Incremental Data Load:** Fetches only new records from APIs to minimize redundancy.
 - **Full Data Load:** Processes large-scale historical data for pattern analysis.
+- **Incremental Data Load:** Fetches only new records from APIs to minimize redundancy.
 - **Data Enrichment:** Enhances raw data with computed weather indicators.
 - **Airflow DAGs:** Automate and orchestrate data pipelines for real-time updates.
 
@@ -46,27 +48,9 @@ Our real-time alerting system is powered by **Apache Airflow** and messaging ser
 ___
 We use powerful dashboards to visualize trends and alerts:
 
-- 📊 **Power BI Dashboards:** Interactive visualizations for weather trends and alerts.
+- 📊 **Power BI Dashboards:** Interactive visualizations for weather trends and historical conditions.
 - 📡 **Metabase Diagrams:** Data-driven insights for better decision-making.
 
-## 🎯 **Final Results**  
-___
-Our system improves **real-time monitoring of weather conditions**, providing **valuable insights** for farmers and stakeholders. The **scalable architecture** allows easy integration with additional **data sources and predictive models**.
-
-| Feature                  | Status          |
-|--------------------------|----------------|
-| ✅ Real-time weather alerts | Implemented   |
-| ✅ Historical data analysis | Implemented   |
-| 🚀 CI/CD for automation   | Future Work    |
-| 📩 Email-based alerts    | Future Work    |
-| 🌍 More cities/rural areas | Future Work    |
-
-## 🔮 **Future Work**  
-___
-- **Incorporate more weather data sources** for better forecasting.
-- **Implement CI/CD** for automated deployments.
-- **Expand the system** to cover more **cities and rural areas**.
-- **Enhance fault tolerance** and **error handling**.
 
 ## 👥 **Participants**  
 ___
