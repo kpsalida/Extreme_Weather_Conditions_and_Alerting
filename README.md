@@ -10,20 +10,20 @@ Our project focuses on acquiring the necessary data from APIs, in an organized a
 
 ## Project Organization  
 
-README.md  
+***README.md*** 
   - The top-level README for navigating this project  
 
-notebooks/  
+**notebooks/**  
   - Scripts for extracting, transforming, and loading data  
   - AirflowContainers/  
     - Scripts for initiating Airflow in Containers  
   - AirflowDAGs/  
     - Scripts for creating DAGs for orchestrating ETL processes and alerting system  
 
-dashboard/  
+**dashboard/**  
   - Power BI dashboards for visualizing weather patterns  
 
-presentation/  
+**presentation/**  
   - Final project presentation and conclusions  
 
 
