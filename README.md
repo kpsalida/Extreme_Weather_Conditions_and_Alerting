@@ -9,13 +9,13 @@ Our project focuses on acquiring the necessary data from APIs, in an organized a
 2.5 weeks   
 
 ## Project Organization  
-├── README.md <- The top-level README for navigating this project 
-├── Data <- Raw historical weather data for 25 cities in Greece 
-├── ETL <- Scripts for extracting, transforming, and loading data 
-├── API_Scripts <- Scripts for fetching real-time weather data from APIs 
-├── Airflow_DAGs <- DAGs for orchestrating ETL processes and alerting system 
-├── Dashboard <- Power BI dashboards for visualizing weather patterns 
-├── Presentation <- Final project presentation and conclusions
+├── README.md <- The top-level README for navigating this project  
+├── Data <- Raw historical weather data for 25 cities in Greece  
+├── ETL <- Scripts for extracting, transforming, and loading data  
+├── API_Scripts <- Scripts for fetching real-time weather data from APIs  
+├── Airflow_DAGs <- DAGs for orchestrating ETL processes and alerting system  
+├── Dashboard <- Power BI dashboards for visualizing weather patterns  
+├── Presentation <- Final project presentation and conclusions  
 
 
 ## 📊 **Data**  
