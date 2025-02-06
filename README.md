@@ -72,7 +72,7 @@ ___
 ___  
 Here is a snapshot of our project in action:  
 
-![Project Snapshot](C:\Users\kathe\Documents\$user\MINE\GitHubProjects\EngineeringProjectGitHub\presentation\Highlight.png)  
+![Project Snapshot](presentation/Highlight.png)  
 
 The Docker daemon listens to docker.sock, allowing it to oversee all Docker containers and their communication with each other.
 
