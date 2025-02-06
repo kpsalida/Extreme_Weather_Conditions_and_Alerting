@@ -1,0 +1,127 @@
+{
+    "Thessaloniki": {
+        "region": "Central Macedonia",
+        "lat": "40.6403167",
+        "lon": "22.9352716"
+    },
+    "Kozani": {
+        "region": "Western Macedonia",
+        "lat": "40.3007259",
+        "lon": "21.7883119"
+    },
+    "Florina": {
+        "region": "Western Macedonia",
+        "lat": "40.7813652",
+        "lon": "21.4150911"
+    },
+    "Neos Marmaras": {
+        "region": "Central Macedonia",
+        "lat": "40.0956362",
+        "lon": "23.7812487"
+    },
+    "Volos": {
+        "region": "Thessaly",
+        "lat": "39.3624833",
+        "lon": "22.9401864"
+    },
+    "Trikala": {
+        "region": "Thessaly",
+        "lat": "39.5560869",
+        "lon": "21.7678844"
+    },
+    "Ioannina": {
+        "region": "Epirus",
+        "lat": "39.6639818",
+        "lon": "20.8522784"
+    },
+    "Zagori": {
+        "region": "Epirus",
+        "lat": "39.8190408",
+        "lon": "20.9541484"
+    },
+    "Agrinio": {
+        "region": "Western Greece",
+        "lat": "38.6248275",
+        "lon": "21.4094206"
+    },
+    "Athens": {
+        "region": "Central Greece",
+        "lat": "37.9755648",
+        "lon": "23.7348324"
+    },
+    "Chalkida": {
+        "region": "Central Greece",
+        "lat": "38.4623664",
+        "lon": "23.5946877"
+    },
+    "Patras": {
+        "region": "Western Greece",
+        "lat": "38.246242",
+        "lon": "21.7350847"
+    },
+    "Kalamata": {
+        "region": "Peloponnese",
+        "lat": "37.0372714",
+        "lon": "22.110707"
+    },
+    "Corinth": {
+        "region": "Peloponnese",
+        "lat": "37.9385413",
+        "lon": "22.9273768"
+    },
+    "Tripoli": {
+        "region": "Peloponnese",
+        "lat": "37.5102911",
+        "lon": "22.3724241"
+    },
+    "Chania": {
+        "region": "Crete",
+        "lat": "35.5120831",
+        "lon": "24.0191544"
+    },
+    "Heraklion": {
+        "region": "Crete",
+        "lat": "35.33908",
+        "lon": "25.1332843"
+    },
+    "Corfu": {
+        "region": "Ionian Islands",
+        "lat": "39.591337",
+        "lon": "19.859618918733858"
+    },
+    "Santorini": {
+        "region": "Cyclades",
+        "lat": "36.4071112",
+        "lon": "25.456663652707153"
+    },
+    "Rhodes": {
+        "region": "Dodecanese",
+        "lat": "36.172529749999995",
+        "lon": "27.91940163839584"
+    },
+    "Kos": {
+        "region": "Dodecanese",
+        "lat": "36.793693250000004",
+        "lon": "27.084826562878217"
+    },
+    "Alexandroupoli": {
+        "region": "North Eastern Greece",
+        "lat": "40.845666",
+        "lon": "25.8778814"
+    },
+    "Komotini": {
+        "region": "North Eastern Greece",
+        "lat": "41.1182",
+        "lon": "25.4035708"
+    },
+    "Drama": {
+        "region": "North Eastern Greece",
+        "lat": "41.1499443",
+        "lon": "24.1468286"
+    },
+    "Kavala": {
+        "region": "North Eastern Greece",
+        "lat": "40.9369224",
+        "lon": "24.4122766"
+    }
+}
