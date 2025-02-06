@@ -68,6 +68,19 @@ ___
 
 ---
 
+## 🌟 Project Highlight  
+___  
+Here is a snapshot of our project in action:  
+
+![Project Snapshot](C:\Users\kathe\Documents\$user\MINE\GitHubProjects\EngineeringProjectGitHub\presentation\Highlight.png)  
+
+The Docker daemon listens to docker.sock, allowing it to oversee all Docker containers and their communication with each other.
+
+Thus, on the same machine, where the Airflow container and the Metabase container are deployed,  we also launch a temporary container via the Airflow Docker Operator, which provides the necessary environment for Airflow to run the Incremental Upload Python Script. This utilizes an image that has to be known on the machine we are running the container or be present in an Image catalog. Also it utilizes a shared mount, so that Airflow container and the temporary container, will share the same necessary files.
+
+This is a `highlight` since we do not to install Python on our VM, we create a temporary environment, with shared files and may also allocate to it the resources needed.
+
+
 🚀 *This project is part of the Big Blue Data Academy, Data Engineering Bootcamp, February 2025.*
 
 
